@@ -6,6 +6,6 @@ public class Main {
 
         System.out.println("第一次修改。。。");
 
-        System.out.println("第二次在分支1上修改。。。");
+        System.out.println("第二次在分支1上修改。。。master修改");
     }
 }
